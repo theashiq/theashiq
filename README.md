@@ -1,3 +1,5 @@
+# Ashiqur Rahman
+
 - 👋 Hi, I’m [Ashiqur Rahman](https://github.com/theashiq)  
 - 👀 I’m interested in developing softwares for Apple devices
 - 🌱 I’m currently learning iOS development specially SwiftUI
@@ -8,13 +10,6 @@
 theashiq/theashiq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-# Ashiqur Rahman
-
-| ![Photo of Ashiqur Rahman](https://avatars.githubusercontent.com/u/145163861) | 
-|:--:| 
-| *Photo of Ashiqur Rahman* |
-
 
 ## About Me
 I am **Ashiqur Rahman**, a **software engineer** from Bangladesh with over **four** years of experience in developing mobile applications using various technologies and frameworks. I have a bachelor's degree in computer science and engineering and a passion for solving complex problems with elegant and efficient solutions.
