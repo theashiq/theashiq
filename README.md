@@ -13,11 +13,11 @@ You can click the Preview link to take a look at your changes.
 
 ## Profiles
 
- **LinkedIn** &nbsp;[linkedin.com/in/ashiqurrahmanbd](https://www.linkedin.com/in/ashiqurrahmanbd)
+ **LinkedIn** &nbsp; [linkedin.com/in/ashiqurrahmanbd](https://www.linkedin.com/in/ashiqurrahmanbd)
  
- **Leetcode** &nbsp;[leetcode.com/sharkleet](https://leetcode.com/sharkleet)
+ **Leetcode** &nbsp; [leetcode.com/sharkleet](https://leetcode.com/sharkleet)
  
- **Old Github** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [github.com/theashiq](https://github.com/ashiqur12345)  
+ **Old Github** &nbsp; [github.com/theashiq](https://github.com/ashiqur12345)  
 
 ed International University
 
