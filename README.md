@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
  **LinkedIn** &nbsp; &nbsp; &nbsp; [linkedin.com/in/ashiqurrahmanbd](https://www.linkedin.com/in/ashiqurrahmanbd)
  
- **Leetcode** &nbsp; &nbsp; &nbsp; [leetcode.com/sharkleet](https://leetcode.com/sharkleet)
+ **Leetcode** &nbsp; &nbsp; &nbsp; [leetcode.com/theashiq](https://leetcode.com/theashiq)
  
  **Old Github** &nbsp; [github.com/ashiqur12345](https://github.com/ashiqur12345)  
 
