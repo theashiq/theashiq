@@ -10,15 +10,7 @@
 <!---
 theashiq/theashiq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
-
-## Profiles
-
- **LinkedIn** &nbsp; &nbsp; &nbsp; [linkedin.com/in/ashiqurrahmanbd](https://www.linkedin.com/in/ashiqurrahmanbd)
- 
- **Leetcode** &nbsp; &nbsp; &nbsp; [leetcode.com/theashiq](https://leetcode.com/theashiq)
- 
- **Old Github** &nbsp; [github.com/ashiqur12345](https://github.com/ashiqur12345)  
+---> 
 
 # Documents
 [My Curriculum Vitae](https://github.com/theashiq/theashiq.github.io/blob/main/Ashiqur-Rahman-CV.pdf) 
