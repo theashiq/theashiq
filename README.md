@@ -5,6 +5,7 @@
 [![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=flat-square&logo=xcode&logoColor=white)](https://developer.apple.com/xcode/)
 [![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)](https://unity.com/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=flat-square&logo=google-chrome&logoColor=white)](https://theashiq.github.io)
+![Profile views](https://komarev.com/ghpvc/?username=theashiq&label=Profile%20views&color=0e75b6&style=flat-square)
 
 ---
 
@@ -26,6 +27,13 @@
 
 ---
 
+## 📊 GitHub Stats
+
+![Ashiqur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=theashiq&show_icons=true&theme=default&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theashiq&layout=compact&theme=default)
+
+---
+
 ## 🤝 Let’s Collaborate!
 
 I'm always open to working on exciting and meaningful **iOS apps**, **games**, or **AI-powered tools**. Whether you're launching a new project or leveling up an existing one, I bring clean code, modern architecture, and thoughtful design.
@@ -37,7 +45,7 @@ I'm always open to working on exciting and meaningful **iOS apps**, **games**, o
 
 > _“Great software is invisible—it just works.”_
 
-Thanks for visiting my profile! Feel free to explore my work and reach out 👇
+Thanks for visiting my profile! Feel free to explore my work and connect 👇
 
 
 <!---
