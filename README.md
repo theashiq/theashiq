@@ -1,10 +1,10 @@
 # Ashiqur Rahman
 
-- 👋 Hi, I’m Ashiqur Rahman
-- 👀 I’m interested in developing iOS apps
-- 🌱 I’m currently working as a software engineer
-- 💞️ I’m looking to collaborate on iOS app development
-- 📫 Reach me via ashiqur.rahman@hotmail.com
+- 👋 Hi, this is Ashiqur Rahman
+- 👀 Interested in developing iOS apps
+- 🌱 Currently working as a software engineer
+- 💞️ Looking to collaborate on iOS app development
+- 📫 ashiqur.rahman@hotmail.com
 - 🏠 Dhaka, Bangladesh
 
 <!---
